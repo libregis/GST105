@@ -1,0 +1,13 @@
+# Project information
+site_name: 'GST105: Introduction to Remote Sensing'
+site_description: 'GST 105: Introduction to Remote Sensing'
+
+theme:
+  name: 'readthedocs'
+
+ # palette:
+ #   primary: 'light green'
+ #   accent: 'green'
+
+#markdown_extensions:
+#  - admonition
