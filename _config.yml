@@ -1,0 +1,8 @@
+title: GST105FOSS4GLabs
+description: GST 105 - Introduction to Remote Sensing - FOSS4G Labs
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
